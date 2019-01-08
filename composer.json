@@ -1,5 +1,5 @@
 {
-    "name": "kwin/laravel-admin-wangEditor",
+    "name": "kwin/laravel-admin-wangeditor",
     "description": "wangEditor extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "editor"],
